@@ -2,7 +2,7 @@
 
 ## 📌 Problema
 
-Com a chegada do inverno, populações vulneráveis — como pessoas em situação de rua, idosos e famílias de baixa renda — ficam expostas às baixas temperaturas sem acesso a agasalhos e roupas adequadas. Essa realidade transforma um fenômeno físico (a perda de calor corporal) em uma questão urgente de saúde pública, podendo levar à hipotermia e até à morte.
+Com a chegada do inverno, populações vulneráveis, como pessoas em situação de rua, idosos e famílias de baixa renda, ficam expostas às baixas temperaturas sem acesso a agasalhos e roupas adequadas. Essa realidade transforma um fenômeno físico (a perda de calor corporal) em uma questão urgente de saúde pública, podendo levar à hipotermia e até à morte.
 
 A ausência de mecanismos de isolamento térmico afeta diretamente a homeostase do corpo humano, que mantém sua temperatura em aproximadamente 36,5°C. Sem agasalhos, o corpo perde calor para o ambiente de forma acelerada, colocando a vida em risco.
 
@@ -10,7 +10,7 @@ A ausência de mecanismos de isolamento térmico afeta diretamente a homeostase 
 
 **Qual a dificuldade?** A falta de doações organizadas, a ausência de pontos de coleta estruturados e a baixa conscientização da comunidade sobre a gravidade do problema.
 
-**Por que isso é relevante?** O frio não é apenas desconforto — é uma ameaça real à vida. A ciência explica e a solidariedade resolve.
+**Por que isso é relevante?** O frio não é apenas desconforto, é uma ameaça real à vida. A ciência explica e a solidariedade resolve.
 
 ---
 
@@ -24,7 +24,7 @@ O projeto **"Calor que se Compartilha"** é uma campanha pedagógica e solidári
 
 A campanha parte de uma pergunta norteadora: **"O frio existe?"**
 
-Na física, o "frio" não é uma entidade — é a **ausência de calor**. O calor é a energia térmica em trânsito, que flui espontaneamente de corpos de maior temperatura para corpos de menor temperatura (HALLIDAY; RESNICK; WALKER, 2016).
+Na física, o "frio" não é uma entidade, é a **ausência de calor**. O calor é a energia térmica em trânsito, que flui espontaneamente de corpos de maior temperatura para corpos de menor temperatura (HALLIDAY; RESNICK; WALKER, 2016).
 
 Um equívoco comum é dizer que "o agasalho nos esquenta". Na verdade, o agasalho atua como um **isolante térmico**: ele não gera calor, mas reduz a taxa de transferência de calor do corpo para o ambiente, mantendo a energia corporal.
 
@@ -36,35 +36,14 @@ Um equívoco comum é dizer que "o agasalho nos esquenta". Na verdade, o agasalh
 
 ---
 
-## 🗂️ Plano de Ação
-
-Os alunos são divididos em quatro frentes de trabalho:
-
-| Equipe | Responsabilidades | Período |
-|---|---|---|
-| **Criação** | Criar vídeos educativos e cartazes para divulgação da campanha | 1ª semana de maio |
-| **Logística** | Definir pontos de coleta, triagem e verificação de higienização das peças | Durante o mês |
-| **Comunicação** | Divulgar a campanha nas redes sociais da escola e comunidade local | 2ª e 3ª semanas |
-| **Impacto Social** | Mapear instituições, abrigos e comunidades que mais necessitam das doações | 1ª semana / 4ª semana (entrega) |
-
----
-
 ## 📂 Documentação
 
 - Apresentação do Projeto (PDF)
-- Site 
+- Site
 
 ---
 
 ## 🚀 Considerações Finais
-
-### 🧠 O que os alunos aprendem
-
-Durante o projeto, os alunos desenvolvem competências interdisciplinares: compreendem conceitos de **Termodinâmica** (calor, temperatura, isolamento térmico e transferência de energia), praticam **cidadania ativa** ao organizar uma campanha solidária real, e desenvolvem habilidades de **comunicação e criação de conteúdo digital**.
-
-### ⚠️ Desafios esperados
-
-O maior desafio é engajar a comunidade escolar e externa dentro do prazo de um mês, além de garantir a triagem adequada das peças arrecadadas e a entrega às instituições corretas.
 
 ### 📈 Impacto esperado
 
