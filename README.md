@@ -24,7 +24,7 @@ O projeto **"Calor que se Compartilha"** é uma campanha pedagógica e solidári
 
 A campanha parte de uma pergunta norteadora: **"O frio existe?"**
 
-Na física, o "frio" não é uma entidade, é a **ausência de calor**. O calor é a energia térmica em trânsito, que flui espontaneamente de corpos de maior temperatura para corpos de menor temperatura (HALLIDAY; RESNICK; WALKER, 2016).
+Na física, o "frio" não é uma entidade, é a **ausência de calor**. O calor é a energia térmica em trânsito, que flui espontaneamente de corpos de maior temperatura para corpos de menor temperatura (Halliday;Resnick; Walker, 2016).
 
 Um equívoco comum é dizer que "o agasalho nos esquenta". Na verdade, o agasalho atua como um **isolante térmico**: ele não gera calor, mas reduz a taxa de transferência de calor do corpo para o ambiente, mantendo a energia corporal.
 
