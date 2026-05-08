@@ -38,8 +38,7 @@ Um equívoco comum é dizer que "o agasalho nos esquenta". Na verdade, o agasalh
 
 ## 📂 Documentação
 
-- Apresentação do Projeto (PDF)
-- Site
+- [Site](https://calorquesecompartilha.vercel.app/)
 
 ---
 
